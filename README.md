@@ -42,8 +42,8 @@ subsequently tests.**
 ## The analytical problem
 
 Molecular dynamics can show which residues interact and how those interactions
-change through time. DeepCoil2 can independently predict the coiled-coil
-register of MyhT.
+change through time. DeepCoil2 can predict the coiled-coil register of MyhT from sequence,
+separately from the MD-derived contact analysis.
 
 Visual inspection can suggest that persistent contacts favour particular
 heptad positions.
