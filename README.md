@@ -15,7 +15,7 @@ HARP asks a deliberately narrow question:
 
 The central design principle is **independence**:
 
-```markdown
+
 ## HARP v4.1 analysis pipeline
 
 ![HARP v4.1 analysis pipeline showing separate sequence-based heptad assignment and AF3-derived molecular-dynamics contact-analysis streams converging at HARP integration](docs/HARP_v4.1_pipeline_overview.png)
