@@ -15,21 +15,20 @@ HARP asks a deliberately narrow question:
 
 The central design principle is **independence**:
 
-```text
-DeepCoil2                                  Molecular dynamics
-sequence-based                            trajectory-derived
-MyhT register                             MyhT–IBAM MG contacts
-     │                                             │
-     ▼                                             ▼
-a  b  c  d  e  f  g                         contact pattern
-     │                                             │
-     └──────────────────┬──────────────────────────┘
-                        ▼
-                       HARP
-                        │
-                        ▼
-          Is their observed relationship
-          stronger than expected by chance?
+```markdown
+## HARP v4.1 analysis pipeline
+
+![HARP v4.1 analysis pipeline showing separate sequence-based heptad assignment and AF3-derived molecular-dynamics contact-analysis streams converging at HARP integration](docs/HARP_v4.1_pipeline_overview.png)
+
+The central design principle is **separate derivation of the two analysis
+streams**. DeepCoil2 defines the MyhT heptad coordinate system from sequence,
+whereas molecular dynamics determines where and how persistently MyhT contacts
+the IBAM major groove. The two assignments are combined only when HARP maps
+trajectory-derived contact occupancy onto the preassigned heptad coordinate
+system.
+
+**HARP does not derive the heptad register from the contact pattern that it
+subsequently tests.**
 ```
 
 DeepCoil2 defines the MyhT heptad coordinate system. Molecular dynamics
