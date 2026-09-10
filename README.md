@@ -472,6 +472,7 @@ HARP-analysis-tool/
 ├── examples/
 │
 ├── docs/
+│   ├── HARP_v4.1_pipeline_overview.png
 │   ├── HARP_v4_1_Mathematical_Supplement.pdf
 │   └── Interpreting HARP v4.1 graphical output.pdf
 │
