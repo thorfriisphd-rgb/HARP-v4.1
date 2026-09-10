@@ -413,41 +413,49 @@ overwriting previous analyses.
 
 ## Documentation
 
+**Pipeline overview**
+
+[HARP v4.1 analysis pipeline](docs/HARP_v4.1_pipeline_overview.png)
+
+Visual overview of the two separately derived analysis streams, HARP integration,
+taxon-level inference and optional multi-taxon panel analysis.
+
 **Graphical interpretation**
 
-`docs/Interpreting HARP v4.1 graphical output.pdf`
+[Interpreting HARP v4.1 graphical output](docs/Interpreting%20HARP%20v4.1%20graphical%20output.pdf)
 
 Start here to understand HARP's six principal graphical outputs and how they
 fit together.
 
 **Mathematical Supplement**
 
-`docs/HARP_v4_1_Mathematical_Supplement.pdf`
+[HARP v4.1 Mathematical Supplement](docs/HARP_v4_1_Mathematical_Supplement.pdf)
 
 Formal definitions of the statistics, null models, phase representations,
 permutation inference and panel analysis.
 
+**Technical reference**
+
+[HARP v4.1 Technical README](docs/HARP_v4.1_Technical_README.md)
+
+CLI commands, validation behaviour, outputs, reference-runner details and
+frozen benchmark information.
+
 **Reference dataset**
 
-`reference/26taxa/README.md`
+[26-taxon reference dataset documentation](reference/26taxa/README.md)
 
 Reference-corpus verification and connection to the external Zenodo payload.
 
 **Block-size sensitivity QC**
 
-`qc/blocksize_sensitivity/README.md`
+[Block-size sensitivity QC](qc/blocksize_sensitivity/README.md)
 
 Secondary robustness analysis around the frozen production block size.
 
-**Technical reference**
-
-`docs/HARP_v4.1_Technical_README.md`
-
-CLI commands, validation behaviour, outputs, reference-runner details and frozen benchmark information.
-
 **Release notes**
 
-`RELEASE_NOTES.md`
+[HARP v4.1 release notes](RELEASE_NOTES.md)
 
 Summary of the v4.1 release consolidation and freeze.
 
