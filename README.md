@@ -29,7 +29,7 @@ system.
 
 **HARP does not derive the heptad register from the contact pattern that it
 subsequently tests.**
-```
+
 
 DeepCoil2 defines the MyhT heptad coordinate system. Molecular dynamics
 independently determines where and how persistently MyhT contacts the IBAM MG.
