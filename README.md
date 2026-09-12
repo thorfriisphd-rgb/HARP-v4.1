@@ -49,9 +49,8 @@ But visual pattern recognition is not statistical evidence.
 
 HARP distinguishes:
 
-```
+
 _contacts exist_
-```
 
 from:
 
