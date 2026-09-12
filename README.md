@@ -50,13 +50,12 @@ But visual pattern recognition is not statistical evidence.
 HARP distinguishes:
 
 
-_contacts exist_
+**_contacts exist_**
 
 from:
 
-
-_contacts exhibit reproducible organization
-relative to an independently defined heptad coordinate system_
+**_contacts exhibit reproducible organization
+relative to an independently defined heptad coordinate system_**
 
 
 It maps trajectory-derived contact information onto the independently assigned
