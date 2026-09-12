@@ -54,10 +54,10 @@ _contacts exist_
 
 from:
 
-```text
-contacts exhibit reproducible organization
-relative to an independently defined heptad coordinate system
-```
+
+_contacts exhibit reproducible organization
+relative to an independently defined heptad coordinate system_
+
 
 It maps trajectory-derived contact information onto the independently assigned
 MyhT heptad register and tests the resulting organization against explicit
